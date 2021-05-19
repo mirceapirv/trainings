@@ -1,0 +1,8 @@
+[{<<"base16">>,
+  {git,"https://github.com/goj/base16.git",
+       {ref,"f78918e7b593fbdc35ec9bcc349aa50f47f45a8b"}},
+  0},
+ {<<"jsone">>,
+  {git,"https://github.com/sile/jsone.git",
+       {ref,"971a1d9aff364ebd402987da36f6a00d209c20af"}},
+  0}].
